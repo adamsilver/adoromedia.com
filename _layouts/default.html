@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html dir="ltr" lang="en">
+	<head>
+        <title>{% if page.title %}{{ page.title }} | {% endif %} {{ site.name }}</title>
+        {% include head.html %}
+	</head>
+	<body id="pg-{{page.id}}">
+		<div id="container">
+			<div id="content">
+                <div id="page">
+				    {{ content }}
+
+				    <div class="share">
+		            	<p>
+		            		Like this article?
+		            		<a href="https://twitter.com/share?source=tweetbutton&text=The Boring Front-end Developer&via=adambsilver&url={{site.url}}&hashtags=webdevelopment,js">Share on Twitter</a>
+		            	</p>
+					</div>
+                </div>
+			</div>
+		</div>
+	</body>
+</html>
