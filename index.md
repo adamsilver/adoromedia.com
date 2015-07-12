@@ -7,10 +7,12 @@ id: home
 
 <p class="tagline">By <a href="http://adamsilver.io">Adam Silver</a></p>
 
-We make websites, *better!*
+Making *better* websites.
 
 ## Services
 
 Yada
 
 ## Contact
+
+Bada
