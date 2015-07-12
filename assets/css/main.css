@@ -121,24 +121,9 @@ h2 {
     font-family: 'droid sans';
 	font-size: 1.6em;
 	margin-top: 1em;
-	margin-bottom: 1em;
+	margin-bottom: 0em;
     color: #2c3e50;
-}
-
-h3 {
-	font-size: 1.2em;
-	margin-top: 1em;
-    font-family: 'droid sans';
-	margin-bottom: 0.5em;
-    color: #2c3e50;
-}
-
-h4 {
-	font-size: 1em;
-	margin-top: 1em;
-    font-family: 'droid sans';
-	margin-bottom: 0.5em;
-    color: #2c3e50;
+    text-align: center;
 }
 
 p {
@@ -146,6 +131,7 @@ p {
 	margin-bottom: 1.5em;
 	margin-top: 1em;
 	color: #2c3e50;
+	text-align: center;
 }
 
 .share {
@@ -192,7 +178,7 @@ a img {
 }
 
 #container {
-	margin: 220px auto 0;
+	margin: 80px auto 0;
 }
 
 #content {
