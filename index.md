@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Adoro Media
+# Adoro
 
 <p class="tagline">Making better websites!</p>
 
